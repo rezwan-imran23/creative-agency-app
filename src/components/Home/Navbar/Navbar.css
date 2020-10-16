@@ -1,0 +1,20 @@
+.navbar{
+    width: 90%;
+    margin: auto;
+}
+
+.loginBtn{
+    background-color: #111430;
+    padding: 10px 50px;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+}
+.logo-img{
+    margin-top:15px;
+    padding: 20px;
+}
+
+.navSection{
+    background-color: #FBD062;
+}

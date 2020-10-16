@@ -1,0 +1,41 @@
+h5{
+    text-align: center;
+}
+.createAcc{
+    text-align: center;
+    font-size: smaller;
+    font-weight: 600;
+    margin-top: 20px;
+    
+}
+
+.text{
+    text-align: center;
+    margin: -8px 10px ;
+}
+
+.socialIcon{
+    display: flex;
+    border: 1px solid gray;
+    margin-top: 25px;
+    padding: 6px;
+    border-radius:30px;
+    
+}
+.socialIcon img{
+    width: 30px;
+    margin-left: 25px;
+}
+
+.socialIcon h5{
+    font-size: 15px;
+    margin: 12px 0px 0px 120px;
+    cursor: pointer;
+}
+
+.card {
+    padding:120px 20px;
+}
+.creativeLogo{
+    padding-top: 180px;
+}

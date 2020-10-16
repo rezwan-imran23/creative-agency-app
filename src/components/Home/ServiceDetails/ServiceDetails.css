@@ -1,0 +1,16 @@
+.serviceBox{
+    padding: 80px;
+    height: 450px;
+    margin: 100px 0px;
+    cursor: pointer;
+}
+
+.serviceBox:hover{
+    transition: box-shadow .4s;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(33,33,33,.2); 
+}
+
+.serviceBox img{
+    width: 120px;
+}

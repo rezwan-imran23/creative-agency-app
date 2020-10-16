@@ -1,0 +1,27 @@
+.mainHead{
+    width: 85%;
+    margin: auto;
+    margin-top: 50px;
+}
+.mainHead h1{
+    font-weight: 700;
+    font-size: 80px;
+    color: black;
+}
+.headImg{
+    padding-left: 100px;
+   
+}
+
+.hireBtn{
+    background-color: #111430;
+    padding: 10px 50px;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+}
+
+.allLogos{
+    margin-top: 350px;
+    
+}

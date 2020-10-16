@@ -1,0 +1,20 @@
+.workSection{
+    width: 85%;
+    margin: auto;
+    margin-top: 80px;
+    background-color: #111430;
+    height: 1000px;
+    margin-bottom: 80PX;
+}
+
+.workSection h1{
+color: white;
+padding-top: 130px;
+}
+.carousel{
+margin-top: 80px;
+}
+
+.carimg{
+    padding: 80px;
+}

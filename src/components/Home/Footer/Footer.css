@@ -1,0 +1,43 @@
+.footerSection{
+    width: 100%;
+    margin: auto;
+    margin-top: 150px;
+    background-color: #FBD062;
+    height: 90vh;
+}
+.footerBox{
+    width: 85%;
+    margin: auto;
+    margin-top: 150px;
+    background-color: #FBD062;
+    height: 80vh;
+}
+.submitBtn{
+    background-color: #111430;
+    padding: 10px 50px;
+    color: white;
+    border-style: none;
+    border-radius: 4px;
+    margin-bottom: 150px;
+}
+
+.title{
+    padding: 120px;
+} 
+.title h1{
+    font-weight: 700;
+} 
+
+form{
+    padding: 40px;
+}
+.inputBox{
+    padding: 35px;
+}
+.messageBox{
+    padding: 50px 0px 180px 35px;
+}
+
+form{
+    margin-top: 90px;
+}
