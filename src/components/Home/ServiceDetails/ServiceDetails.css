@@ -14,3 +14,7 @@
 .serviceBox img{
     width: 120px;
 }
+
+.serviceBox h2{
+   color: black;
+}

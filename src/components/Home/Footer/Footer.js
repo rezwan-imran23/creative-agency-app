@@ -26,13 +26,13 @@ const Footer = () => {
     <input type="text" class="form-control  messageBox" placeholder="Your message"/>
   </div>
 
-  <button class="submitBtn">Login</button>
+  <button class="submitBtn">Send</button>
 </form>
 </div>
 </div>
 </div>
             
-<p className="text-center">copyright Orange labs 2020</p>
+<p className="text-center">Copyright {(new Date()).getFullYear()} Orange labs</p>
 </section>
     );
 };

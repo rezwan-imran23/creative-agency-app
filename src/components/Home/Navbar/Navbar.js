@@ -24,7 +24,7 @@ const Navbar = () => {
         
       </li>
       <li class="nav-item mr-5">
-      <a class="nav-link" href="#">Contact Us</a>
+      <Link to='./list'><a class="nav-link" href="#">Admin</a></Link>
       </li>
     </ul>
 

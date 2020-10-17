@@ -24,16 +24,31 @@
     margin-bottom: 30px;
 }
 
-
-
-.sendBtn{
-    background-color: #111430;
-    padding: 10px 50px;
+button[type="submit"],
+input[type="submit"] {
+    background: #111430;
     color: white;
-    border-style: none;
+    padding: 12px 50px;
+    border: none;
+    margin-top: 40px;
+    font-size: 16px;
     border-radius: 4px;
-    margin-bottom: 150px;
+  }
+
+  .OrderInput{
+    padding: 35px;
 }
+.projectBox{
+    padding: 50px 0px 120px 35px;
+}
+
+.loadFile{
+    background-color: #DEFFED;
+    padding: 20px;
+    border: 1px solid green;
+    border-radius: 4px;
+}
+
 
 
 
@@ -50,3 +65,4 @@
     border: 1px solid green;
     border-radius: 4px;
 }
+

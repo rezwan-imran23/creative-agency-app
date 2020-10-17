@@ -1,0 +1,81 @@
+.topside{
+    margin: 40px 0px 60px 60px;
+ }
+ .topTitle{
+     margin: 60px 0px 0px 0px;
+ }
+ .sidebar{
+     margin: 0px 0px 30px 60px;
+     font-weight: 600;
+     font-size: 20px;
+     cursor: pointer;
+ }
+ 
+ .sidebar:hover{
+     color: #009444;
+ }
+  
+ .formBox{
+     background-color: rgb(226, 236, 245);
+     height: 90vh;
+     width: 95%;
+     border-radius: 6px;
+     margin-top: -70px;
+     margin-bottom: 30px;
+     padding: 2px 50px;
+ }
+ 
+ button[type="submit"],
+ input[type="submit"] {
+     background: #009444;
+     color: white;
+     padding: 12px 50px;
+     border: none;
+     margin-top: 40px;
+     font-size: 16px;
+     border-radius: 4px;
+   }
+ 
+   .serviceInput{
+     padding: 30px;
+ }
+ .projectBox{
+     padding: 50px 0px 120px 35px;
+ }
+ 
+ .uploadFile{
+     background-color: #DEFFED;
+     padding: 14px;
+     border: 1px solid green;
+     border-radius: 4px;
+ }
+ 
+ 
+ 
+ 
+ .OrderInput{
+     padding: 35px;
+ }
+ .projectBox{
+     padding: 50px 0px 120px 35px;
+ }
+ 
+ .loadFile{
+     background-color: #DEFFED;
+     padding: 20px;
+     border: 1px solid green;
+     border-radius: 4px;
+ }
+
+ .innerBox{
+     height: 400px;
+     background-color: rgb(255, 255, 255);
+     border-radius: 8px;
+    
+
+ }
+ 
+ .sbmtbtn{
+     padding-left: 75px;
+ }
+ 
